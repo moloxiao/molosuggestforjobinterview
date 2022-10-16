@@ -4,7 +4,7 @@
 
 ### 1.1 Jobs Track(React)  
 ideas : 2022-10-12
-
+students daliy task, models[学生日常任务，支持模板套用]
 
 ## 2 Language
 
